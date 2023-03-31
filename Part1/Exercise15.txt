@@ -1,0 +1,9 @@
+REPOSITORY                          TAG       IMAGE ID       CREATED       SIZE
+ubuntu                              latest    08d22c0ceb15   2 weeks ago   77.8MB
+fav_distro                          bionic    3941d3b032a8   2 weeks ago   63.1MB
+ubuntu                              18.04     3941d3b032a8   2 weeks ago   63.1MB
+devopsdockeruh/simple-web-service   ubuntu    4e3362e907d5   2 years ago   83MB
+devopsdockeruh/simple-web-service   alpine    fd312adc88e0   2 years ago   15.7MB
+
+
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
