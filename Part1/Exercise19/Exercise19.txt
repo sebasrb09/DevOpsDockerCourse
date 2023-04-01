@@ -1,0 +1,13 @@
+
+docker run -v /${pwd}/logs19.txt://usr/src/app/text.log devopsdockeruh/simple-web-service #This one doesn't work because i'm in windows
+
+type nul > logs19.txt
+
+docker run -v "${pwd}\DevOpsDocker\DevOpsDockerCourse\Part1\Exercise19:/usr/src/app/text" devopsdockeruh/first_volume_exercise
+
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
